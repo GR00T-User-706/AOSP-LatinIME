@@ -29,3 +29,7 @@ Building host tools (used to generate dictionaries) still requires some more wor
 1.  Import project into `Android Studio`
 
 ### 🎉 Enjoy your new Android Keyboard!
+
+## Project standards
+
+See [PROJECT_STANDARDS.md](docs/PROJECT_STANDARDS.md) for project-specific documentation, contribution, and validation standards.
